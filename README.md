@@ -14,7 +14,7 @@ Hide an element after a specified number of milliseconds
 
 ## Use with bower
 
-`"solidfire-sdk-js": "git@github.com:cloudspace/cs-hide-after.git#master",`
+`"cs-hide-after": "git@github.com:cloudspace/cs-hide-after.git#master",`
 
 Include the following in your html
 
